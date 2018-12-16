@@ -9,4 +9,7 @@ Kullanılan Yapı:
 CodeIgniter : `User Guide <https://codeigniter.com/docs>`_
 Excell okuma ve yazma için : https://phpspreadsheet.readthedocs.io/en/develop/topics/recipes/
 
-Lisans:
+Önizleme/ Preview
+
+https://tweetcreator.herokuapp.com/
+
