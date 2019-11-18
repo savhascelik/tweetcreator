@@ -54,7 +54,7 @@ var a=0;
   <textarea disabled class="form-control" id="exampleFormControlTextarea1" rows="4" style="background-color:white"></textarea>
 
  </div>
- <div class="alert alert-light" role="alert">
+ <div class="alert alert-danger" role="alert">
 	 <b>Lütfen metni okuyup tweetleyiniz sorumluluk kabul edilmemektedir.</b>
 </div>
  
