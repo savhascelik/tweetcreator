@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<meta charset="utf-8">
-  <title>HIzlı Tweet (@savhascelik)</title>
+  <title>Hızlı Tweet (@savhascelik)</title>
  
 
 </head>
