@@ -51,7 +51,7 @@ var a=0;
   <div class="input-group-prepend">
     <span class="input-group-text" id="inputGroup-sizing-lg">Tweet Metni</span>
   </div>
-  <textarea disabled class="form-control" id="exampleFormControlTextarea1" rows="6" style="background-color:white"></textarea>
+  <textarea disabled class="form-control" id="exampleFormControlTextarea1" rows="10" style="background-color:white"></textarea>
 
  </div>
  <div class="alert alert-danger" role="alert">
