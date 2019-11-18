@@ -55,7 +55,7 @@ var a=0;
 
  </div>
  <div class="alert alert-light" role="alert">
- Lütfen metni okuyup tweetleyiniz sorumluluk kabul edilmemektedir.
+	 <b>Lütfen metni okuyup tweetleyiniz sorumluluk kabul edilmemektedir.</b>
 </div>
  
  <div><b><p id="say"> Tweet karakter uzunluğu:  </p></b></div>
