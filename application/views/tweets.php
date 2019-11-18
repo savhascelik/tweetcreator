@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<meta charset="utf-8">
-  <title>Tweet Creator</title>
+  <title>HIzlı Tweet</title>
  
 
 </head>
@@ -44,7 +44,7 @@ var a=0;
 
 <br>
 <div class="alert alert-primary" role="alert">
-  Twitter Creator!!!
+ Hızlı Tweet. Önceden hazırlanmış cümlelerden rastgele tweet üretir!!!
 </div>
 <br>
 <div class="input-group">
@@ -72,12 +72,18 @@ var a=0;
 <div style="font-size:11px;" >
   <ul class="list-group" >
   <li class="list-group-item active">Gündem olabilme şartları (Yaklaşık) </li>
-  <li class="list-group-item">En az 600 kişi  bir saatte  aynı #hashtag'e tweet atarsa ülke gündemi mümkün</li>
+  <li class="list-group-item">En az 800 kişi  bir saatte  aynı #hashtag'e tweet atarsa ülke gündemi mümkün</li>
+	   <li class="list-group-item">Atılan tweetlere yorum beğeni ve RT de çokönemli ama önce aynı olay üzerinde konuşan insan sayısı artmalı</li>
   <li class="list-group-item">Daha önce konuşulmayan bir konu seçilmeli ki tweeter algoritması konuyu yakalasın</li>
-  <li class="list-group-item">Daha sakin bir bir zaman dilmi seçilmeli gündem isteniyorsa saat 16:00 civarı başlanabilir</li>
+  <li class="list-group-item">Daha sakin bir bir zaman dilmi seçilmeli gündem isteniyorsa saat 19:00 civarı başlanabilir</li>
   
 </ul>
 </div>
+	<div class="alert alert-primary" role="alert">
+@savhascelik 
+</div>
+	
+	<div>   
 
 
 <script>window.twttr = (function(d, s, id) {
